@@ -1,0 +1,9 @@
+body{
+    background-color: blanchedalmond;
+    color:brown;
+}
+.timer{
+    display: flex;
+    flex-direction: row;
+    
+}
